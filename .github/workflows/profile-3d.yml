@@ -1,0 +1,29 @@
+# 每天根据贡献日历生成 3D 贡献图，提交到 profile-3d-contrib/ 目录供 README 引用
+name: 生成 3D 贡献图
+
+on:
+  schedule: # 北京时间 02:00 == UTC 18:00
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: 提交生成结果
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "更新 3D 贡献图"; then
+            git push
+          fi
