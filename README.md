@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/37611353?v=4" width="96" style="border-radius:50%" alt="panda-z519">
-
 # Hi, I'm Siqiang Zhang 👋
 
 <a href="https://github.com/panda-z519">
