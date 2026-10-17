@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Siqiang Zhang 👋
+# Hi, I'm panda-z519 👋
 
 <a href="https://github.com/panda-z519">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=I+build+small+tools+that+remove+daily+friction.;macOS+%C2%B7+Swift+%C2%B7+TypeScript+%C2%B7+Python;Making+AI+agents+nicer+to+work+with." alt="Typing SVG">
 </a>
 
 **English** · [简体中文](./README.zh-CN.md)
+
+[![LINUX DO](https://img.shields.io/badge/LINUX_DO-Community_member-1a1a1a?style=flat-square)](https://linux.do)
 
 </div>
 
@@ -17,6 +19,7 @@
 - I like building **small, sharp tools**: menu-bar apps, launchers, scripts — things you install once and stop noticing.
 - Mostly working on **macOS desktop utilities** (Swift / SwiftUI) and **AI-agent workflows** (Claude Code, Codex).
 - Everything I ship tries to be **local-first** and respectful of your privacy.
+- A regular at the [**LINUX DO**](https://linux.do) community — I even wrote [a userscript](https://github.com/panda-z519/linuxdo-script) to save its threads into Obsidian.
 
 ### 🚀 Featured projects
 

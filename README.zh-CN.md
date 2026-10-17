@@ -1,12 +1,14 @@
 <div align="center">
 
-# 你好，我是张思强 👋
+# 你好，我是 panda-z519 👋
 
 <a href="https://github.com/panda-z519">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=%E5%96%9C%E6%AC%A2%E5%81%9A%E8%AE%A9%E6%97%A5%E5%B8%B8%E6%9B%B4%E9%A1%BA%E6%89%8B%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;macOS+%C2%B7+Swift+%C2%B7+TypeScript+%C2%B7+Python;%E8%AE%A9+AI+Agent+%E6%9B%B4%E5%A5%BD%E7%94%A8" alt="打字动画">
 </a>
 
 [English](./README.md) · **简体中文**
+
+[![LINUX DO](https://img.shields.io/badge/LINUX_DO-%E7%A4%BE%E5%8C%BA%E7%88%B1%E5%A5%BD%E8%80%85-1a1a1a?style=flat-square)](https://linux.do)
 
 </div>
 
@@ -17,6 +19,7 @@
 - 喜欢做**小而精的工具**：菜单栏应用、启动器、脚本——装上之后就不用再操心的那种。
 - 主要在做 **macOS 桌面小工具**（Swift / SwiftUI）和 **AI Agent 工作流**（Claude Code、Codex）。
 - 做的东西尽量**本地优先**，不收集你的数据。
+- [**LINUX DO**](https://linux.do) 社区的忠实佬友，还为它写了一个[把帖子保存到 Obsidian 的油猴脚本](https://github.com/panda-z519/linuxdo-script)。
 
 ### 🚀 代表项目
 
