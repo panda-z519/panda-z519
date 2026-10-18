@@ -26,6 +26,7 @@
 | 项目 | 简介 | 技术栈 |
 | :-- | :-- | :-- |
 | [**MyFan**](https://github.com/panda-z519/MyFan) | Apple Silicon Mac 菜单栏风扇控制与系统监控：手动档位、温度曲线、CPU / 内存 / 网络 / 电池 | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) |
+| [**LockIME-Voice**](https://github.com/panda-z519/LockIME-Voice) | macOS 菜单栏输入法锁定工具，附带可配置的语音输入流程 | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) |
 | [**QuickTab**](https://github.com/panda-z519/QuickTab) | 像 Spotlight 一样搜索和切换浏览器标签页、书签与历史记录 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 | [**NearLock**](https://github.com/panda-z519/NearLock) | 把 Android 手机当作蓝牙信标，人离开工位时 Mac 自动锁屏 | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/-Android-34A853?logo=android&logoColor=white&style=flat-square) |
 | [**agent-session-titles**](https://github.com/panda-z519/agent-session-titles) | 一条命令为 Claude Code 与 Codex 安装自动更新的三段式会话标题 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
