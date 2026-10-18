@@ -25,6 +25,7 @@
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
+| [**MyFan**](https://github.com/panda-z519/MyFan) | Menu-bar fan control and system monitor for Apple Silicon Macs: presets, temperature curves, CPU / memory / network / battery | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) |
 | [**QuickTab**](https://github.com/panda-z519/QuickTab) | Spotlight-style launcher to search and switch browser tabs, bookmarks and history | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 | [**NearLock**](https://github.com/panda-z519/NearLock) | Auto-locks your Mac when you walk away, using an Android phone as a BLE beacon | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/-Android-34A853?logo=android&logoColor=white&style=flat-square) |
 | [**agent-session-titles**](https://github.com/panda-z519/agent-session-titles) | One command to give Claude Code & Codex sessions auto-updating, readable titles | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
