@@ -30,6 +30,7 @@
 | [**QuickTab**](https://github.com/panda-z519/QuickTab) | 像 Spotlight 一样搜索和切换浏览器标签页、书签与历史记录 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 | [**NearLock**](https://github.com/panda-z519/NearLock) | 把 Android 手机当作蓝牙信标，人离开工位时 Mac 自动锁屏 | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/-Android-34A853?logo=android&logoColor=white&style=flat-square) |
 | [**agent-session-titles**](https://github.com/panda-z519/agent-session-titles) | 一条命令为 Claude Code 与 Codex 安装自动更新的三段式会话标题 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**imefuse**](https://github.com/panda-z519/imefuse) | 把 macOS 输入法里的个人词频搬到另一家（微信键盘 / 搜狗 / 豆包）：只合并不覆盖，三家格式逐字节逆出 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**linuxdo-script**](https://github.com/panda-z519/linuxdo-script) | 把 linux.do 帖子一键保存成 Obsidian Markdown 笔记的油猴脚本 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
 
 ### 🛠️ 技术栈

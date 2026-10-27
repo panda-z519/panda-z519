@@ -30,6 +30,7 @@
 | [**QuickTab**](https://github.com/panda-z519/QuickTab) | Spotlight-style launcher to search and switch browser tabs, bookmarks and history | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 | [**NearLock**](https://github.com/panda-z519/NearLock) | Auto-locks your Mac when you walk away, using an Android phone as a BLE beacon | ![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/-Android-34A853?logo=android&logoColor=white&style=flat-square) |
 | [**agent-session-titles**](https://github.com/panda-z519/agent-session-titles) | One command to give Claude Code & Codex sessions auto-updating, readable titles | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**imefuse**](https://github.com/panda-z519/imefuse) | Move personal word-frequency data between macOS Chinese IMEs (WeType / Sogou / Doubao). Merge, never overwrite — all three formats reversed byte by byte | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**linuxdo-script**](https://github.com/panda-z519/linuxdo-script) | Userscript that saves linux.do threads into Obsidian as Markdown notes | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
 
 ### 🛠️ Tech stack
