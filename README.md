@@ -21,6 +21,16 @@
 - Everything I ship tries to be **local-first** and respectful of your privacy.
 - A regular at the [**LINUX DO**](https://linux.do) community — I even wrote [a userscript](https://github.com/panda-z519/linuxdo-script) to save its threads into Obsidian.
 
+### 🤖 AI automation work
+
+I build AI automations and Claude Code workflows for small teams: connecting forms, inboxes, spreadsheets and chat tools so repetitive work runs on its own.
+
+| Project | What it shows | Stack |
+| :-- | :-- | :-- |
+| [**ai-lead-triage**](https://github.com/panda-z519/ai-lead-triage) | Inbound messages classified by AI into clean sheet rows; urgent leads alert Slack, spam is filtered. Retries, rule-based fallback, no duplicate rows | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white&style=flat-square) |
+| [**public-data-pipeline**](https://github.com/panda-z519/public-data-pipeline) | Scheduled public-data monitor that delivers only new records as CSV plus a digest; ships as an Apify Actor | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**agent-session-titles**](https://github.com/panda-z519/agent-session-titles) | Claude Code & Codex plugin with hooks, skills, an installer and tests | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+
 ### 🚀 Featured projects
 
 | Project | What it does | Stack |

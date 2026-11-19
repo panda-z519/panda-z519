@@ -21,6 +21,16 @@
 - 做的东西尽量**本地优先**，不收集你的数据。
 - [**LINUX DO**](https://linux.do) 社区的忠实佬友，还为它写了一个[把帖子保存到 Obsidian 的油猴脚本](https://github.com/panda-z519/linuxdo-script)。
 
+### 🤖 AI 自动化作品
+
+为小团队搭建 AI 自动化和 Claude Code 工作流：把表单、邮箱、表格和聊天工具连起来，让重复的工作自动完成。
+
+| 项目 | 展示了什么 | 技术栈 |
+| :-- | :-- | :-- |
+| [**ai-lead-triage**](https://github.com/panda-z519/ai-lead-triage) | 用 AI 把客户来信分类整理成表格行，紧急线索推送到 Slack，垃圾信息自动过滤；带重试、规则兜底、不产生重复行 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white&style=flat-square) |
+| [**public-data-pipeline**](https://github.com/panda-z519/public-data-pipeline) | 定时监控公开数据，只交付新增记录（CSV + 摘要），同时可作为 Apify Actor 运行 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**agent-session-titles**](https://github.com/panda-z519/agent-session-titles) | Claude Code 与 Codex 插件，包含 hooks、skills、安装器和测试 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+
 ### 🚀 代表项目
 
 | 项目 | 简介 | 技术栈 |
